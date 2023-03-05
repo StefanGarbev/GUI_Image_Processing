@@ -1,0 +1,141 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Accord/3.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/Accord.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          }
+        }
+      },
+      "Accord.Extensions.Imaging.AForgeInterop/3.0.1": {
+        "dependencies": {
+          "Accord.Imaging": "3.8.0",
+          "DotImaging.GenericImage": "2.5.3"
+        },
+        "runtime": {
+          "lib/net45/Accord.Extensions.Imaging.AForgeInterop.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Accord.Imaging/3.8.0": {
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Math": "3.8.0",
+          "Accord.Statistics": "3.8.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Imaging.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          }
+        }
+      },
+      "Accord.Math/3.8.0": {
+        "dependencies": {
+          "Accord": "3.8.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Math.Core.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          },
+          "lib/netstandard2.0/Accord.Math.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          }
+        }
+      },
+      "Accord.Statistics/3.8.0": {
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Math": "3.8.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Statistics.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          }
+        }
+      },
+      "DotImaging.GenericImage/2.5.3": {
+        "dependencies": {
+          "DotImaging.Primitives2D": "2.5.3"
+        },
+        "runtime": {
+          "lib/net45/DotImaging.GenericImage.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "DotImaging.Primitives2D/2.5.3": {
+        "runtime": {
+          "lib/net45/DotImaging.Primitives2D.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accord/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7kJrB570dO5ELim+2KWQNozuvWO9/BuZfZspdFy36fcWPNF2CEccblLuILeUlI8QJYd2DlBy0bfK8BlCx/uayA==",
+      "path": "accord/3.8.0",
+      "hashPath": "accord.3.8.0.nupkg.sha512"
+    },
+    "Accord.Extensions.Imaging.AForgeInterop/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PFr+5CQbEjvCsJcSgITs2MlMjaMKRdc09O7edd/08S5QUxjIBl5S8hhBpFcKiAI1JluuIpDAWR5rYrqMdUpBEw==",
+      "path": "accord.extensions.imaging.aforgeinterop/3.0.1",
+      "hashPath": "accord.extensions.imaging.aforgeinterop.3.0.1.nupkg.sha512"
+    },
+    "Accord.Imaging/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PBZelpKoIW+h3uyNcTufFTCKxEtl/i8nNjgWctvvNu9EkEWDnZ0linckaDWr0rwO0Sx1DD8tL+hpxgOR1clgmg==",
+      "path": "accord.imaging/3.8.0",
+      "hashPath": "accord.imaging.3.8.0.nupkg.sha512"
+    },
+    "Accord.Math/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K3dzeQjDIrwRnoTRoMOoIbul2Uc0B8cnEtdrSlirmIo37C+jVkmYpJzme/z4Kg99XR2Vj5W5TTNlhjn+AKR+8A==",
+      "path": "accord.math/3.8.0",
+      "hashPath": "accord.math.3.8.0.nupkg.sha512"
+    },
+    "Accord.Statistics/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8WsmCE31Qdy3FmRvwtAY3F9/fJEi/6uyLQrhOvSI6pP6gpoaacmCrJRIphkGf2EB8gKHRWLAc4UXr1OOPHxkmQ==",
+      "path": "accord.statistics/3.8.0",
+      "hashPath": "accord.statistics.3.8.0.nupkg.sha512"
+    },
+    "DotImaging.GenericImage/2.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mhwca6gDk2JJSO/lZSONzHzBaXFW1of0zfd9qmnAIvGUvFKARYXPaBwBv2s9Fskub7+jldH4HAUQy6PXBncVMw==",
+      "path": "dotimaging.genericimage/2.5.3",
+      "hashPath": "dotimaging.genericimage.2.5.3.nupkg.sha512"
+    },
+    "DotImaging.Primitives2D/2.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UkZT6XU1QjQBeOCdvhQ7sGzgg7s7HgDl1T1ZM2qKEup3lVwFnBMyCsAvCNxGGH6DXL2cl/mbvwE50Nlqp9UeFA==",
+      "path": "dotimaging.primitives2d/2.5.3",
+      "hashPath": "dotimaging.primitives2d.2.5.3.nupkg.sha512"
+    }
+  }
+}

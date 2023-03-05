@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\GUI Image Processing.exe
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\GUI Image Processing.deps.json
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\GUI Image Processing.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\GUI Image Processing.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\GUI Image Processing.pdb
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI_Image_Processing.Form1.resources
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\refint\GUI Image Processing.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.pdb
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.genruntimeconfig.cache
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\ref\GUI Image Processing.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\Accord.Extensions.Imaging.AForgeInterop.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\Accord.Imaging.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\DotImaging.GenericImage.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\bin\Debug\net6.0-windows\DotImaging.Primitives2D.dll
+C:\Users\User\Desktop\TU\07-Код\ExampleTask\GUI Image Processing\GUI Image Processing\obj\Debug\net6.0-windows\GUI Image Processing.csproj.CopyComplete
